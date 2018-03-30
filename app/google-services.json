@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584862549368",
+    "firebase_url": "https://lockido-58261.firebaseio.com",
+    "project_id": "lockido-58261",
+    "storage_bucket": "lockido-58261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584862549368:android:cdf530c6c1f866a4",
+        "android_client_info": {
+          "package_name": "com.example.alpha.sdgp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584862549368-qk94f6ras7576n5316ultfu2cu54scbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alpha.sdgp",
+            "certificate_hash": "93f2a37f638fcc89b024879ea5600c8c8d4e889b"
+          }
+        },
+        {
+          "client_id": "584862549368-amq8ign57aeuvbt66av9oenp15jjkvfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtsn3F9s1qjdMhArGnLkbjz5fOE1sODpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584862549368-amq8ign57aeuvbt66av9oenp15jjkvfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
